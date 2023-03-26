@@ -5,7 +5,7 @@ import styles from "../styles/Navbar.module.css"
 
 export default function Navbar() {
     return (
-        <div className={styles.navegador, styles.otro} >
+        <div className={styles.navegador} >
             <nav class="navbar navbar-expand-lg bg-body-tertiary container">
                 <div class="container-fluid">
                     <Image

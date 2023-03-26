@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: #738FA7;
+    width: 85vw;
+    min-height: 87vh;
+}
+@media (max-width: 600px) {
+    .contenedor{
+        background-color: #738FA7;
+        width: 100vw;
+        min-height: 87vh;
+    }
+}

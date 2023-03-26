@@ -1,0 +1,16 @@
+.main{
+    background-color: #C3CEDA;
+    min-height: 87vh;
+    width: 15vw;
+}
+.opcion{
+    list-style: none;
+    padding: 0 30px;
+    width: 240px;
+   margin-left: -32px;
+
+}
+.opcion:hover{
+    background-color: #769BC3 ;
+    width: 130%;
+}

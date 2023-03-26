@@ -1,9 +1,10 @@
 .navegador{
     background-color: #071330;
+    height: 13vh;
 }
 .navbar-toggler{
     background-color: white;
 }
 .otro{
-    background-color: aqua;
+    color: white;
 }
